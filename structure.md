@@ -5,7 +5,7 @@
 [`notes`](https://github.com/TihDizer/notes)  
 
 ### **`~/study/`**
-[`english`](https://github.com/TihDizer/english) 
+[`english`](https://github.com/TihDizer/english)  
 [`networking`](https://github.com/TihDizer/networking)  
 
 ### **`~/work/`**
